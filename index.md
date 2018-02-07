@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Taller del Robot NAO
+
+Este taller tiene 2 partes:
+- Parte 1: Movimiento del Robot NAO
+- Parte 2: Reconocimiento de Palabras y uso de sensores
 
 You can use the [editor on GitHub](https://github.com/utecrobotics/taller-nao/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
